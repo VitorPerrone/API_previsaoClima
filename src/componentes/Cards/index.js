@@ -8,7 +8,7 @@ export default function Card(props){
 					<div className='title'>
 						<img  className='imagem_temperatura' src={props.img} alt="Avatar" />
 						<div className='teste_temp'>
-							<p className='temp'> {props.temp} °</p>
+							<p className='temp'> {props.temp} °C</p>
 						</div>
 					</div>
 						{/* <img src={props.temp_max} alt="Avatar" />
