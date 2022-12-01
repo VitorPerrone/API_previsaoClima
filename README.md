@@ -1,8 +1,6 @@
 ## Acme Tempo - Aplicação consumindo a API do https://www.accuweather.com
 ![Aplicação WEB](https://github.com/VitorPerrone/API_previsaoClima/blob/master/imgReadme/WhatsApp%20Image%202022-12-01%20at%2008.28.13.jpeg)
-<p align="center">
 ![Aplicação Mobile](https://github.com/VitorPerrone/API_previsaoClima/blob/master/imgReadme/WhatsApp%20Image%202022-12-01%20at%2008.28.14.jpeg)
-</p>
 ## Tecnologias
 
 * React Native
